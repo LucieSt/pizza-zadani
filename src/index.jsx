@@ -96,7 +96,7 @@ const App = () => {
           <ToppingsSelect toppings={toppings} />
         </main>
       </div>
-    </PrefsContext.Provider>
+    </PrefsContext.Provider> 
   );
 };
 
